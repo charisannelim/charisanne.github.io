@@ -7,7 +7,7 @@
 
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
 * ======================================================= */
@@ -461,8 +461,8 @@ body.offcanvas {
   letter-spacing: 1px;
   text-transform: uppercase;
   font-family: "Quicksand", Arial, sans-serif;
-  background-color: #2c98f0;
-  color: #fff;
+  background-color: #A3FFED;
+  color: #000;
   position: relative;
   -webkit-box-shadow: none !important;
   -moz-box-shadow: none !important;
