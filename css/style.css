@@ -445,7 +445,7 @@ body.offcanvas {
 
 .hire {
   padding: 2em;
-  background: #f9bf3f; }
+  background: #FFD679; }
   .hire h2 {
     line-height: 1.5; }
   .hire .btn-hire {
@@ -565,9 +565,9 @@ body.offcanvas {
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon i {
     color: #fff; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-2 {
-    background: #ec5453; }
+    background: #FF6A59; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-3 {
-    background: #f9bf3f; }
+    background: #FFD679; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-4 {
     background: #a84cb8; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-5 {
@@ -639,13 +639,13 @@ body.offcanvas {
     font-size: 16px;
     font-weight: 500; }
   .services.color-2 {
-    border-bottom: 2px solid #ec5453; }
+    border-bottom: 2px solid #FF6A59; }
     .services.color-2 .icon2 i {
-      color: #ec5453; }
+      color: #FF6A59; }
   .services.color-3 {
-    border-bottom: 2px solid #f9bf3f; }
+    border-bottom: 2px solid #FFD679; }
     .services.color-3 .icon2 i {
-      color: #f9bf3f; }
+      color: #FFD679; }
   .services.color-4 {
     border-bottom: 2px solid #a84cb8; }
     .services.color-4 .icon2 i {
@@ -704,17 +704,17 @@ body.offcanvas {
       font-weight: 700;
       text-transform: uppercase; }
   .services.color-2 .icon {
-    background: #ec5453; }
+    background: #FF6A59; }
     .services.color-2 .icon:before {
-      border-color: transparent transparent #ec5453 transparent; }
+      border-color: transparent transparent #FF6A59 transparent; }
     .services.color-2 .icon:after {
-      border-color: #ec5453 transparent transparent transparent; }
+      border-color: #FF6A59 transparent transparent transparent; }
   .services.color-3 .icon {
-    background: #f9bf3f; }
+    background: #FFD679; }
     .services.color-3 .icon:before {
-      border-color: transparent transparent #f9bf3f transparent; }
+      border-color: transparent transparent #FFD679 transparent; }
     .services.color-3 .icon:after {
-      border-color: #f9bf3f transparent transparent transparent; }
+      border-color: #FFD679 transparent transparent transparent; }
   .services.color-4 .icon {
     background: #a84cb8; }
     .services.color-4 .icon:before {
@@ -784,17 +784,17 @@ body.offcanvas {
     .progress-bar.color-1 span {
       color: #4E5C8C; }
   .progress-bar.color-2 {
-    background: #ec5453; }
+    background: #FF6A59; }
     .progress-bar.color-2:after {
-      background: #ec5453; }
+      background: #FF6A59; }
     .progress-bar.color-2 span {
-      color: #ec5453; }
+      color: #FF6A59; }
   .progress-bar.color-3 {
-    background: #f9bf3f; }
+    background: #FFD679; }
     .progress-bar.color-3:after {
-      background: #f9bf3f; }
+      background: #FFD679; }
     .progress-bar.color-3 span {
-      color: #f9bf3f; }
+      color: #FFD679; }
   .progress-bar.color-4 {
     background: #a84cb8; }
     .progress-bar.color-4:after {
