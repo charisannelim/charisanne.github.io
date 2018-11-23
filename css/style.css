@@ -467,7 +467,7 @@ body.offcanvas {
   letter-spacing: 1px;
   text-transform: uppercase;
   font-family: "Quicksand", Arial, sans-serif;
-  background-color: #A3FFED;
+  background-color: #97C5FA;
   color: #000;
   position: relative;
   -webkit-box-shadow: none !important;
@@ -947,7 +947,7 @@ body.offcanvas {
     bottom: 0;
     left: 0;
     right: 0;
-    background: #4E5C8C;
+    background: #4A4A4A;
     opacity: 0;
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
@@ -1020,7 +1020,7 @@ body.offcanvas {
           -webkit-transform: translate3d(0, 0, 0);
           transform: translate3d(0, 0, 0); } }
   .project:hover .desc {
-    opacity: 1; }
+    opacity: 0.8; }
     .project:hover .desc h3 {
       -webkit-transform: translate3d(0, 0, 0);
       transform: translate3d(0, 0, 0); }
